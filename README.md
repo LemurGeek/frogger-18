@@ -1,5 +1,6 @@
 # Frogger
 ![frogger](screenshots/game.png)
+
 This is a frogger clone built in C with SDL2.
 
 ## Backstory
