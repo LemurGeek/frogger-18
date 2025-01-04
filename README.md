@@ -4,7 +4,7 @@
 This is a frogger clone built in C with SDL2.
 
 ## Backstory
-This project was created when I was learning to program back in 2018. I really enjoyed coding this frogger clone, although it's coded like crap (sorry lol), but this project made me feel in love with coding and because of that I have a big appreciation for this project.
+This project was created when I was learning to program back in 2018. I really enjoyed coding this frogger clone, although it's coded like crap (sorry lol), but this project made me fell in love with coding and because of that I have a big appreciation for this project.
 
 ## Getting Started
 Use a linux distribution, or WSL (Windows Subsystem for Linux). 
